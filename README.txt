@@ -1,7 +1,6 @@
 # Mini-Projeto 2 - Aplicação Full-Stack de Sistema Bancário em Python com Programação Orientada a Objetos
 
 # Estrutura do Projeto
-# Vamos organizar nosso projeto na seguinte estrutura de pastas e arquivos:
 
 Mini-Projeto2/
 ├── entidades/
